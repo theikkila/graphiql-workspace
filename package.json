@@ -45,6 +45,7 @@
     "react-bootstrap": "^0.30.7",
     "react-dom": "^15.4.2",
     "react-dropzone": "^3.11.0",
+    "subscriptions-transport-ws": "^0.8.2",
     "urijs": "^1.18.8"
   },
   "devDependencies": {
